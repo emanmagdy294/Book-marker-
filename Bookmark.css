@@ -1,0 +1,78 @@
+*{
+	font-family:arial
+}
+.caption 
+{
+    color: #AAA;
+    font-weight: bold;
+    font-size: 30px;
+}
+.bordbtn{
+    color: #AAA;
+    padding: 30px;
+    border-bottom: 1px solid #999;
+ 
+}
+
+
+.bg
+{
+    background-color: #EEE;
+}
+
+input
+{
+        border-radius: 5px;
+        border: 1px solid #DDD;
+        padding: 5px;
+        width: 70%;
+        margin: auto;
+        font-size: 15px;
+        max-height: 2em;
+}
+.btn 
+{
+    background-color: royalblue;
+    color: white;
+    
+}
+.btn:hover
+{
+    background-color: #1167c4;
+    color: white;
+}
+
+.footMark
+{
+   color:  #AAA;
+   font-weight: bold;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: none;
+    color: white;
+
+}
+
+.bgCommon
+{
+    background-image: linear-gradient(#EEE,#FFF);
+    margin: 10px 0;
+    padding: 20px;   
+   
+}
+
+.error
+{
+    background-color: #ffb2b2;
+    color: #6d0000;
+    font-weight: bold;
+    border-radius: 5px;
+    
+}
+
